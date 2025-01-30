@@ -269,7 +269,7 @@
     "CHudAccountPanel"
     {
         "xpos"                                                      "c-100"
-        "ypos"                                                      "c110"
+        "ypos"                                                      "c-3"
         "wide"                                                      "200"
         "tall"                                                      "50"
         "textAlignment"                                             "center"
@@ -327,7 +327,7 @@
         "ControlName"                                               "Label"
         "fieldName"                                                 "bh_BuildPin"
         "xpos"                                                      "0"
-        "ypos"                                                      "105"
+        "ypos"                                                      "0"
         "zpos"                                                      "0"
         "wide"                                                      "100"
         "tall"                                                      "0"
